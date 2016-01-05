@@ -1,4 +1,3 @@
-//Kamil Kryjak, nr indeksu 275738
 #include <iostream>
 #include "matrix.h"
 
